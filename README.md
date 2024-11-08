@@ -22,20 +22,20 @@ This project uses the following technologies:
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/Keerthana2802/memory-game.git
+   git clone https://github.com/Keerthana2802/Memory-game.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd memory-game
+   cd Memory-game
    ```
 
 3. Open `index.html` in your browser to view and play the game.
 
 ## Live Website
 
-Check out the live version of the website here: [Memory Game](https://keerthana2802.github.io/memory-game/)
+Check out the live version of the website here: [Memory Game](https://keerthana2802.github.io/Memory-game/)
 
 ## Contact
 
